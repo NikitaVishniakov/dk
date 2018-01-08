@@ -228,7 +228,6 @@
                         </div>
                         <div class="panel-body">
                             <div class="row" id="pts_row_9"></div>
-                            <div class="row" id="pts_row_10"></div>
                             <div class="row" id="pts_row_11"></div>
                         </div>
                     </div>
